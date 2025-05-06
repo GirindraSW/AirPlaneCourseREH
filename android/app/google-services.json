@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784839271557",
+    "project_id": "airplane-362a6",
+    "storage_bucket": "airplane-362a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784839271557:android:4b73c886a23bb7ee4a35ec",
+        "android_client_info": {
+          "package_name": "com.girindra.airplane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZJ31buguXBO-fZYX8jlDIg8gvDlbFDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
